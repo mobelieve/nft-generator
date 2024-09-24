@@ -1,4 +1,10 @@
 NFT Generator With GUI
+
+
+
+
+
+
 This is a simple Python-based NFT generator that allows users to create thousands of unique NFTs by layering images. The project uses a graphical user interface (GUI) built with Tkinter, allowing users to easily select different image folders for layers like background, body, clothes, and accessories. Custom text and other options are available to make each NFT unique.
 
 Features
