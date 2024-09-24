@@ -61,9 +61,9 @@ Multiple Layers: The generator uses random images from different layers (backgro
 Customizable Text: You can add custom text to each NFT, which will appear at the top-left of the image.
 Randomization: Each NFT is created by randomly selecting images from the available image layers, ensuring uniqueness.
 User-Friendly GUI: A simple graphical interface allows you to easily configure the NFT generation process.
-License
+
 This project is open-source and available under the MIT License.
 
-Contributing
+
 Contributions are welcome! Please create a pull request or submit an issue if you have suggestions for improvements.
 
